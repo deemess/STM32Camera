@@ -82,6 +82,7 @@
     <File name="cmsis_boot/system_stm32f10x.c" path="cmsis_boot/system_stm32f10x.c" type="1"/>
     <File name="stm_lib/inc/misc.h" path="stm_lib/inc/misc.h" type="1"/>
     <File name="camera/dcmi_ov9655.c" path="camera/dcmi_ov9655.c" type="1"/>
+    <File name="jpeg/dct.c" path="jpeg/dct.c" type="1"/>
     <File name="stm_lib/inc/stm32f10x_tim.h" path="stm_lib/inc/stm32f10x_tim.h" type="1"/>
     <File name="cmsis/core_cm3.h" path="cmsis/core_cm3.h" type="1"/>
     <File name="cmsis_boot" path="" type="2"/>
@@ -90,6 +91,7 @@
     <File name="stm_lib/src/stm32f10x_rcc.c" path="stm_lib/src/stm32f10x_rcc.c" type="1"/>
     <File name="stm_lib/inc/stm32f10x_fsmc.h" path="stm_lib/inc/stm32f10x_fsmc.h" type="1"/>
     <File name="lcd/AsciiLib.h" path="lcd/AsciiLib.h" type="1"/>
+    <File name="jpeg/arch.h" path="jpeg/arch.h" type="1"/>
     <File name="camera" path="" type="2"/>
     <File name="lcd/AsciiLib.c" path="lcd/AsciiLib.c" type="1"/>
     <File name="stm_lib/src/stm32f10x_tim.c" path="stm_lib/src/stm32f10x_tim.c" type="1"/>
@@ -99,22 +101,26 @@
     <File name="cmsis_boot/stm32f10x.h" path="cmsis_boot/stm32f10x.h" type="1"/>
     <File name="cmsis_boot/stm32f10x_conf.h" path="cmsis_boot/stm32f10x_conf.h" type="1"/>
     <File name="stm_lib/src" path="" type="2"/>
+    <File name="jpeg/jpegenc.c" path="jpeg/jpegenc.c" type="1"/>
+    <File name="jpeg/dct.h" path="jpeg/dct.h" type="1"/>
     <File name="cmsis" path="" type="2"/>
     <File name="stm_lib" path="" type="2"/>
     <File name="stm_lib/src/stm32f10x_fsmc.c" path="stm_lib/src/stm32f10x_fsmc.c" type="1"/>
     <File name="syscalls/syscalls.c" path="syscalls/syscalls.c" type="1"/>
     <File name="cmsis/core_cm3.c" path="cmsis/core_cm3.c" type="1"/>
-    <File name="i2csoft.h" path="i2csoft.h" type="1"/>
     <File name="lcd/LCD.c" path="lcd/LCD.c" type="1"/>
+    <File name="i2csoft.h" path="i2csoft.h" type="1"/>
     <File name="cmsis_boot/system_stm32f10x.h" path="cmsis_boot/system_stm32f10x.h" type="1"/>
     <File name="stm_lib/inc/stm32f10x_rcc.h" path="stm_lib/inc/stm32f10x_rcc.h" type="1"/>
     <File name="lcd" path="" type="2"/>
     <File name="syscalls" path="" type="2"/>
     <File name="camera/dcmi_ov9655.h" path="camera/dcmi_ov9655.h" type="1"/>
+    <File name="jpeg/jpegenc.h" path="jpeg/jpegenc.h" type="1"/>
     <File name="stm_lib/src/stm32f10x_gpio.c" path="stm_lib/src/stm32f10x_gpio.c" type="1"/>
     <File name="stm_lib/inc" path="" type="2"/>
     <File name="delay.c" path="../test/delay.c" type="1"/>
     <File name="stm_lib/inc/stm32f10x_gpio.h" path="stm_lib/inc/stm32f10x_gpio.h" type="1"/>
+    <File name="jpeg" path="" type="2"/>
     <File name="main.c" path="main.c" type="1"/>
   </Files>
 </Project>
